@@ -23,6 +23,8 @@ But it also has some utilities:
   img.relative().size(50, 50); //sets "position" to relative, then width and height to (50, 50)
 ```
 
+Over time this will grow to include some other generic UI elements, like a slider, checkbox, etc. built through JS.
+
 ## TODO:
 
 - Use requestAnimationFrame for reading/writing sizes to prevent layout thrashes.  
